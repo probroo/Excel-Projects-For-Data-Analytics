@@ -1,10 +1,10 @@
 # Excel Projects For Data Analytics
 Hi, I have made a few projects shocasing my excel skills I just learned :)
 
-So, Baiscally, I have made 2 Projects using Excel:-
+So, Baiscally, I have made 3 Projects using Excel:-
 1. [**Salary Dashboard**](Excel_Project_1-Dashboard)
 2. [**Salary And Skills Analysis**](Excel_Project_2-Analysis)
-3. [**Coffee Shop Sales Dashboard**](Excel_Project_3-Coffee Shop Sales)
+3. [**Coffee Shop Sales Dashboard**](Excel_Project_3-Coffee_Shop_Sales)
 
 ## Salary Dashboard
 This project provides an in-depth analysis of the average annual salaries across various data-related job roles. It enables job seekers to explore different data positions and their corresponding salary ranges through interactive charts and a visually engaging dashboard, making salary research clearer and more insightful.
@@ -21,6 +21,13 @@ In today’s job market, researching a desired role can quickly become overwhelm
 <img width="541" height="240" alt="image" src="https://github.com/user-attachments/assets/8f098f6c-c4f6-47d1-b904-b4c1adffef9e" />   
 
 Check out this Project Now: [**Salary And Skills Analysis**](Excel_Project_2-Analysis)
+
+##Coffee Shop Sales Dashboard
+An interactive Coffee Shop Sales Dashboard that provides a complete view of sales performance, customer footfall, and ordering patterns. It analyzes trends across hours, weekdays, months, products, and store locations through clean and intuitive visuals. The dashboard enables quick insights to support smarter operational and business decisions.
+
+<img width="1306" height="534" alt="image" src="https://github.com/user-attachments/assets/806d7b68-fdc9-4fdc-af7c-b49d5113cd48" />
+
+Check out this Project Now: [**Coffee Shop Sales Dashboard**](Excel_Project_3-Coffee_Shop_Sales)
 
 ## End Note
 More Projects will be coming around where I will showcase my other skills of excel!
