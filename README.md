@@ -5,6 +5,7 @@ So, Baiscally, I have made 3 Projects using Excel:-
 1. [**Salary Dashboard**](Excel_Project_1-Dashboard)
 2. [**Salary And Skills Analysis**](Excel_Project_2-Analysis)
 3. [**Coffee Shop Sales Dashboard**](Excel_Project_3-Coffee_Shop_Sales)
+4. [**Products Sales Dashboard**](Excel_Project_4-Sales_Dashboard)
 
 ## Salary Dashboard
 This project provides an in-depth analysis of the average annual salaries across various data-related job roles. It enables job seekers to explore different data positions and their corresponding salary ranges through interactive charts and a visually engaging dashboard, making salary research clearer and more insightful.
@@ -29,6 +30,14 @@ An interactive Coffee Shop Sales Dashboard that provides a complete view of sale
 <img width="1306" height="534" alt="image" src="https://github.com/user-attachments/assets/806d7b68-fdc9-4fdc-af7c-b49d5113cd48" />
 
 Check out this Project Now: [**Coffee Shop Sales Dashboard**](Excel_Project_3-Coffee_Shop_Sales)
+
+## Products Sales Dashboard
+
+This project is an interactive sales dashboard built to analyze product performance across categories, years, customers, and regions. It visualizes sales trends, regional distribution, and customer profitability in a clear and intuitive format. The dashboard enables quick comparison and data-driven insights for business decisions. Key skills used include data cleaning, pivot tables, pivot charts, slicers, and advanced Excel visualizations. The project also demonstrates strong dashboard design and analytical thinking.
+
+<img width="1320" height="532" alt="image" src="https://github.com/user-attachments/assets/05dc8406-691f-4d3a-a96d-4aedf03a64b2" />
+
+Check out this project now: [**Products Sales Dashboard**](Excel_Project_4-Sales_Dashboard)
 
 ## End Note
 More Projects will be coming around where I will showcase my other skills of excel!
