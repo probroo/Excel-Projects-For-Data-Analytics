@@ -9,6 +9,8 @@ The main goal of this project is to analyze:
 - Customer purchasing behavior  
 - Product performance and contribution to revenue  
 
+Datasets used in this :- [Datasets](Dataset_Used)
+
 ---
 
 # 🧱 1. Database & Schema Setup
